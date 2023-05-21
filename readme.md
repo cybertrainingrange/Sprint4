@@ -25,12 +25,21 @@ Traffic Analysis and Planning: Network traffic analyzers provide insights into t
 
 In summary, monitoring and traffic analysis tools like Wireshark and network traffic analyzers play a vital role in understanding network behavior, diagnosing issues, optimizing performance, detecting security threats, and ensuring compliance. By leveraging these tools, network administrators can effectively manage and secure their networks, leading to improved performance and a safer network environment.
  |
-
-## Technical Documentation
-
-[API Detailed Information](https://docs.google.com/document/d/1MQ03Is9H1w1KyiAEDCob0WV6TeXHTgwqo7NMqEljQJc/edit?usp=share_link)
-
-[Technical Documentation](https://docs.google.com/document/d/1YA5fSLGdHHZcd9IHpXuNLxLMBFTlqUXmJwzYcVVQ9xE/edit?usp=share_link) by: Emililie Dionisio
-
-[Technical Documentation](https://docs.google.com/document/d/1Nq6TrYQq8HVG1frYjyoTmuyEBSgA3XuCvOMCvMEv88c/edit?usp=share_link) by: Neiman Phillips
+## Team Members
+- Alena [@alena](https://www.github.com/)
+- Ameha [@ameha01](https://github.com/orgs/cybertrainingrange/people/ameha01)
+- Anna [@annitamaria](https://github.com/orgs/cybertrainingrange/people/ANNITAMARIA)
+- Diego [@dagiraldo3](https://github.com/orgs/cybertrainingrange/people/dagiraldo3)
+- Ella [@ellaowens](https://github.com/ellaowens)
+- Emilie [@emtechnode](https://github.com/emtechnode)
+- Francisco [@killbay](https://github.com/orgs/cybertrainingrange/people/killbay)
+- Gyan [@gyan](https://www.github.com/octokatherine)
+- Jane [@jjperipheral](https://github.com/jjperipheral)
+- Jared [@jared](https://www.github.com/)
+- Maira [@maira](https://www.github.com/)
+- Nancy [@nancyuddin](https://github.com/nancyuddin)
+- Neiman [@Neiman](https://github.com/orgs/cybertrainingrange/people/bull-in-the-heather)
+- Tyesha [@tyesha](https://www.github.com/)
+- Victor [@vick627](https://github.com/orgs/cybertrainingrange/people/vick627)
+- Volha [@voliatalatynik](https://github.com/orgs/cybertrainingrange/people/voliatalatynik)
 
