@@ -1,5 +1,5 @@
 
-# Cyber Range Team Capstone Project Summary - Sprint 4 (Team A)
+# Cyber Range Team Capstone Project Summary - Sprint 4
 
 ## Monitoring and Traffic Analysis Learning Environment
 
