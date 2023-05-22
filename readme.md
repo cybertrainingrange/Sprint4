@@ -38,7 +38,7 @@ Ultimately, the cyber training range will enable students to understand the diff
 
 ## Technical Documentation 🛠 
 
-[Technical Documentation](https://docs.google.com/document/d/1dEt010KAPSTOcSzrZFoXH3yVfqiua8XQ9uxhl7OWpwU/edit?usp=share_link)
+[Technical Documentation](https://docs.google.com/document/d/1JYtjJIoogxSxhwCsEMSxx-QWECzdaHew/edit?usp=share_link&ouid=114435178493746117340&rtpof=true&sd=true)
 
 
 
