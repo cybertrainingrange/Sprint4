@@ -2,9 +2,9 @@
 # Analyzing Network Protocols
 
 
-<img scr="https://drive.google.com/uc?export=view&id=1_S2Odp1KjAF1I1aOu33tIsvmkIHZUmxz">
 
-|  ![ScreenShot](https://drive.google.com/uc?export=view&id=1_S2Odp1KjAF1I1aOu33tIsvmkIHZUmxz)  |
+
+|  ![Network Protocols](https://drive.google.com/uc?export=view&id=1_S2Odp1KjAF1I1aOu33tIsvmkIHZUmxz)  |
 | ----------------------- |
 | Analyzing network protocols is a crucial aspect of network troubleshooting, security analysis, and performance optimization. Network protocols govern the rules and procedures for data communication between devices in a network. To analyze network protocols effectively, professionals often rely on tools like Wireshark or other neutral vendor tools, which provide detailed insights into the traffic flowing through the network. |
 | Network protocol analysis is the process of examining the data packets that are transmitted over a network. This can be done for a variety of purposes, including troubleshooting network problems, detecting security threats, and analyzing network traffic. |
