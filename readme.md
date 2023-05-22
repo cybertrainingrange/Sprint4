@@ -36,7 +36,7 @@ Ultimately, the cyber training range will enable students to understand the diff
 
 ## Technical Documentation 🛠 
 
-[Team A - AWS Technical Documentation](https://docs.google.com/document/d/1dEt010KAPSTOcSzrZFoXH3yVfqiua8XQ9uxhl7OWpwU/edit?usp=share_link)
+[Technical Documentation](https://docs.google.com/document/d/1dEt010KAPSTOcSzrZFoXH3yVfqiua8XQ9uxhl7OWpwU/edit?usp=share_link)
 
 
 
