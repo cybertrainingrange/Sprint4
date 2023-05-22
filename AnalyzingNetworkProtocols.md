@@ -62,6 +62,11 @@ When using tools like Wireshark or neutral vendor tools, the network traffic is 
 
 Analyzing network protocols using tools like Wireshark or neutral vendor tools allows professionals to gain insights into the intricacies of network communication. The OSI and TCP/IP models provide a framework for understanding the different layers involved in this communication, enabling effective troubleshooting, performance optimization, security analysis, and compliance validation.
 
+## Technical Documentation 🤖
+
+[API Detailed Information](https://docs.google.com/document/d/19xuaboWqPuh2xHv4bwEWp6eR3k2f7zS9hQ9Nw0aDXqE/edit?usp=share_link)
+
+
 ## 🔗 Authors: 👐
 
 ### Emilie Dionisio👩‍
