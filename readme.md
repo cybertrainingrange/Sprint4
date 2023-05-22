@@ -20,6 +20,7 @@
 
 
 
+
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1TWXg3iOei8HX9zHkOWQPeKKa-oED9fJe) |
 | ----------------------- |
 | Wireshark is a software tool that helps you analyze network traffic. It allows you to see the data that is being sent and received over a network, such as the Internet or a local network. Think of it as a network "sniffer" or a digital detective that captures and displays the conversations happening between different devices on a network. When you run Wireshark on your computer, it starts capturing packets of data that are flowing through your network interface. These packets contain information about the source and destination devices, the type of data being transmitted, and other details. Wireshark then organizes and presents this information in a readable format. By examining these packets, you can gain insights into network-related issues, troubleshoot problems, or even analyze network security. For example, if you're having trouble connecting to a website, you can use Wireshark to inspect the packets and see if there are any errors or communication issues. Wireshark provides a graphical user interface (GUI) where you can view and filter the captured packets. You can drill down into individual packets to see their contents, like the actual data being sent, the protocol used, and other metadata. It can also decode encrypted traffic if you have the necessary encryption keys. |
