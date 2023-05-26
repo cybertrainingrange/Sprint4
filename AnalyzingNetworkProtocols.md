@@ -1,12 +1,4 @@
 
-
-
-
-| Header | Title |
-| ----------- | ----------- |
-| Paragraph | Text | 
-| Emilie | Dionisio | 
-
 # Analyzing Network Protocols
 
 
