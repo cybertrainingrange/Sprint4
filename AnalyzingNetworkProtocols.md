@@ -1,9 +1,9 @@
 
 
 
- 	| Syntax | Description |
-| ----------- | ----------- |
+
 | Header | Title |
+| ----------- | ----------- |
 | Paragraph | Text | 
 
 # Analyzing Network Protocols
