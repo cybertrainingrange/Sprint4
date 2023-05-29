@@ -47,7 +47,7 @@ When analyzing network protocols, two widely used models come into play: **the O
 
 
 
-| ![TCP/IP](https://drive.google.com/uc?export=view&id=1AN0_tMVUvTzAzP_injeJbkcG5y2myzy8) |
+| ![TCP/IP Protocol Suite](https://drive.google.com/uc?export=view&id=1AN0_tMVUvTzAzP_injeJbkcG5y2myzy8) |
 | ----------------------- |
 
 
