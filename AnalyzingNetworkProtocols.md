@@ -46,11 +46,13 @@ When analyzing network protocols, two widely used models come into play: **the O
 
 
 
+
 | ![TCP/IP](https://drive.google.com/uc?export=view&id=1AN0_tMVUvTzAzP_injeJbkcG5y2myzy8) |
 | ----------------------- |
 
 
-
+ 
+ 
 
 **The TCP/IP (Transmission Control Protocol/Internet Protocol) model is a simplified version of the OSI model, widely used in today's internet communication. It consists of four layers:**
 
