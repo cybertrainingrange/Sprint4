@@ -12,6 +12,7 @@
 
 
 
+
 Analyzing network protocols is a crucial aspect of network troubleshooting, security analysis, and performance optimization. Network protocols govern the rules and procedures for data communication between devices in a network. To analyze network protocols effectively, professionals often rely on tools like Wireshark or other neutral vendor tools, which provide detailed insights into the traffic flowing through the network.
 Network protocol analysis is the process of examining the data packets that are transmitted over a network. This can be done for a variety of purposes, including troubleshooting network problems, detecting security threats, and analyzing network traffic. 
 
@@ -33,6 +34,7 @@ When analyzing network protocols, two widely used models come into play: **the O
 
 
 
+
 **The OSI (Open Systems Interconnection) model is a conceptual framework that defines seven layers, each responsible for a specific aspect of network communication. These layers include:** 
 
 1. Physical Layer: Deals with the electrical and physical properties of data transmission, such as cables and network interfaces.
@@ -47,6 +49,8 @@ When analyzing network protocols, two widely used models come into play: **the O
 
 | [App Screenshot](https://drive.google.com/uc?export=view&id=1AN0_tMVUvTzAzP_injeJbkcG5y2myzy8) |
 | ----------------------- |
+
+
 
 
 **The TCP/IP (Transmission Control Protocol/Internet Protocol) model is a simplified version of the OSI model, widely used in today's internet communication. It consists of four layers:**
