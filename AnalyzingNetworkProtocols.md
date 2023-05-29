@@ -9,7 +9,7 @@
 | ---------------------- |
 
 
-
+[Api Gateway](https://github.com/cybertrainingrange/ctre-team-a/blob/main/apigateway.md)
  
 
 
