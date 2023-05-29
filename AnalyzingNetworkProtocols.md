@@ -33,6 +33,7 @@ When analyzing network protocols, two widely used models come into play: **the O
 
 
 
+
 **The OSI (Open Systems Interconnection) model is a conceptual framework that defines seven layers, each responsible for a specific aspect of network communication. These layers include:** 
 
 1. Physical Layer: Deals with the electrical and physical properties of data transmission, such as cables and network interfaces.
@@ -45,7 +46,7 @@ When analyzing network protocols, two widely used models come into play: **the O
 
 
 
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=1AN0_tMVUvTzAzP_injeJbkcG5y2myzy8) |
+| ![TCP/IP](https://drive.google.com/uc?export=view&id=1AN0_tMVUvTzAzP_injeJbkcG5y2myzy8) |
 | ----------------------- |
 
 
