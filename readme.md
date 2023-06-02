@@ -62,7 +62,7 @@ Ultimately, the cyber training range will enable students to understand the diff
 - Anna [@annitamaria](https://github.com/orgs/cybertrainingrange/people/ANNITAMARIA)
 - Diego [@dagiraldo3](https://github.com/orgs/cybertrainingrange/people/dagiraldo3)
 - Ella [@ellaowens](https://github.com/ellaowens)
-- Emilie [@emtechnode](https://github.com/emtechnode)
+- Emilie [@emtechnode](https://github.com/emiliedionisio)
 - Francisco [@killbay](https://github.com/orgs/cybertrainingrange/people/killbay)
 - Gyan [@gyan](https://www.github.com/octokatherine)
 - Jane [@jjperipheral](https://github.com/jjperipheral)
